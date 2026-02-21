@@ -1,5 +1,5 @@
-# from defectDcgan.avatar_model import defectModel
-from defect_model import DefectModel  # wdb 20200325
+# from defectDcgan.defect_model import defectModel
+from defect_model import DefectModel  # zyy 20250325
 
 if __name__ == '__main__':
     defect = DefectModel()
