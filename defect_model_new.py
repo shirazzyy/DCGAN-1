@@ -7,7 +7,7 @@ import math
 import numpy as np
 import tensorflow as tf
 from datetime import datetime
-# from defectDcgan.avatar import Defect
+# from defectDcgan.defect import Defect
 from defect import Defect  # zyy 20250325
 
 
