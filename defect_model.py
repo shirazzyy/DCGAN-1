@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 from datetime import datetime
 # from defectDcgan.defect import Defect
-from defect import Defect  # wdb 20200325
+from defect import Defect  # zyy 20250325
 
 
 class DefectModel:
