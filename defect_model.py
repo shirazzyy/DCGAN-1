@@ -12,7 +12,7 @@ class DefectModel:
     def __init__(self):
         self.defect = Defect()
         # 真实图片shape (height, width, depth)
-        self.img_shape = self.avatar.img_shape
+        self.img_shape = self.defect.img_shape
         # 一个batch的图片向量shape (batch, height, width, depth)
         self.batch_shape = self.defect.batch_shape
         # 一个batch包含图片数量
